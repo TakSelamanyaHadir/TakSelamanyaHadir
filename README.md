@@ -1,6 +1,6 @@
 ### Tak Selamanya Hadir ternyata telah hadir
 
-![](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/soloLevelling.gif)
+![](https://github.com/TakSelamanyaHadir/TakSelamanyaHadir/blob/main/soloLevelling.gif)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakSelamanyaHadir&show_icons=true&theme=radical)
